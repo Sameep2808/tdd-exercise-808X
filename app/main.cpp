@@ -18,7 +18,7 @@
  * @return 0
  */
 int main() {
-  double set_point, finalvalue, error, cur_vel;
+  /*double set_point, finalvalue, error, cur_vel;
   int count = 0;
   std::cout << "Enter set point:" << std::endl;
   std::cin >> set_point;
@@ -27,15 +27,15 @@ int main() {
   PID_controller pid;
   error = pid.get_error(set_point, finalvalue);
   cur_vel = pid.compute(finalvalue, error);
-
-   while (error != 0) {
+*/
+   /*while (error != 0) {
     error = pid.get_error(set_point, cur_vel);
     cur_vel = pid.compute(cur_vel, error);
     std::cout << error << std::endl;
     count++;
   }
 
-  std::cout << error << "\n" << count << std::endl;
+  std::cout << error << "\n" << count << std::endl;*/
 
   return 0;
 }

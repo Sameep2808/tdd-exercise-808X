@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/pid.h
+
+/home/gauraut/808X_Material/Week 5/Part_2/tdd-exercise-808X/app/main.cpp
+pid.h
+-
+cmath
+-
+iostream
+-
+

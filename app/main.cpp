@@ -6,6 +6,7 @@
  * @file: PID.cpp
  * @brief: Contains the main function of program
  * @author: Part 1 : Sameep Pote (driver), Advait Patole (navigator)
+ * @author: Part: gauraut (driver and navigator)
  **/
 
 #include <pid.h>

@@ -25,7 +25,7 @@ class PID_controller{
    *
    * @param set_point
    * @param current_velocity
-   * @return piderror
+   * @return
    */
   double get_error(double set_point, double current_velocity);
 

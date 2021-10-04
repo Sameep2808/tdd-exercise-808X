@@ -1,6 +1,9 @@
-[![Build Status](https://app.travis-ci.com/Sameep2808/tdd-exercise-808X.svg?branch=main)](https://app.travis-ci.com/Sameep2808/tdd-exercise-808X)
-[![Coverage Status](https://coveralls.io/repos/github/Sameep2808/tdd-exercise-808X/badge.svg?branch=main)](https://coveralls.io/github/Sameep2808/tdd-exercise-808X?branch=main)
+[![Build Status](https://app.travis-ci.com/gauraut/tdd-exercise-808X.svg?branch=main)](https://app.travis-ci.com/gauraut/tdd-exercise-808X)
+[![Coverage Status](https://coveralls.io/repos/github/gauraut/tdd-exercise-808X/badge.svg?branch=main)](https://coveralls.io/github/gauraut/tdd-exercise-808X?branch=main)
 # C++ Boilerplate
+# TO DO
+- Use class constructors that take setpoint and finalvalue as input arguments
+- The functions rely on too many input arguments which have to be defined in the main function. These could be added as class variables.
 ## Overview
 
 Simple starter C++ project with:
@@ -8,9 +11,12 @@ Simple starter C++ project with:
 - cmake
 - googletest
 
-**Authors :**\
+**Authors (Part 1):**\
 Driver : Sameep Pote \
 Navigator : Advait Patole
+
+# Author (Part 2)
+Driver and Navigator: Gaurav Raut
 
 ## Standard install via command-line
 ```

@@ -12,9 +12,16 @@
 #include <iostream>
 
 double PID_controller::get_error(double set_point, double current_velocity) {
-return 0;
+return (set_point-current_velocity);
 }
 
+
+
 double PID_controller::compute(double current_velocity, double error) {
-return 0;
+	i_error += error * dt;
+	d_error = (error - p_error) / dt;
+	output = (kp * error) + (ki * i_error) + (kd * d_error);
+	current_velocity += output;
+	p_error = error;
+	return current_velocity;
 }

@@ -2,7 +2,8 @@
 [![Coverage Status](https://coveralls.io/repos/github/gauraut/tdd-exercise-808X/badge.svg?branch=main)](https://coveralls.io/github/gauraut/tdd-exercise-808X?branch=main)
 # C++ Boilerplate
 # TO DO
-- Use Constructors that take setpoint and finalvalue as input arguments
+- Use class constructors that take setpoint and finalvalue as input arguments
+- The functions rely on too many input arguments which have to be defined in the main function. These could be added as class variables.
 ## Overview
 
 Simple starter C++ project with:

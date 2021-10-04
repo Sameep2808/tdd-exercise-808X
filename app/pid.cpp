@@ -6,6 +6,7 @@
  * @file: PID.cpp
  * @brief: Contains the class definition of PID_Controller
  * @author: Part 1 : Sameep Pote (driver), Advait Patole (navigator)
+ * @author: Part 2: gauraut (driver and navigator)
  **/
 
 #include <pid.h>

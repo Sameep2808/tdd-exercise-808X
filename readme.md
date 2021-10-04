@@ -8,9 +8,12 @@ Simple starter C++ project with:
 - cmake
 - googletest
 
-**Authors :**\
+**Authors (Part 1):**\
 Driver : Sameep Pote \
 Navigator : Advait Patole
+
+# Author (Part 2)
+Driver and Navigator: Gaurav Raut
 
 ## Standard install via command-line
 ```

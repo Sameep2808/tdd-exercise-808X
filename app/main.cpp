@@ -19,6 +19,9 @@
  * @return 0
  */
 int main() {
+  
+  // Uncomment this area to run the main function.
+  // This has been done to check class tests coverage
   /*double set_point, finalvalue, error, cur_vel;
   int count = 0;
   std::cout << "Enter set point:" << std::endl;

@@ -16,7 +16,8 @@ Driver : Sameep Pote \
 Navigator : Advait Patole
 
 # Author (Part 2)
-Driver and Navigator: Gaurav Raut
+Navigator: Gaurav Raut
+Driver: Abhijit Mahalle
 
 ## Standard install via command-line
 ```

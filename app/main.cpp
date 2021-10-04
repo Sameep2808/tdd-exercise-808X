@@ -6,6 +6,7 @@
  * @file: PID.cpp
  * @brief: Contains the main function of program
  * @author: Part 1 : Sameep Pote (driver), Advait Patole (navigator)
+ * @author: Part: gauraut (driver and navigator)
  **/
 
 #include <pid.h>
@@ -18,6 +19,9 @@
  * @return 0
  */
 int main() {
+  
+  // Uncomment this area to run the main function.
+  // This has been done to check class tests coverage
   /*double set_point, finalvalue, error, cur_vel;
   int count = 0;
   std::cout << "Enter set point:" << std::endl;
